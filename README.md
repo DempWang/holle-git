@@ -6,4 +6,11 @@
 
 ### markdown
 
+```java
+@SpringBootApplication
+public class Application {
+}
+
+```
+
 git-day
